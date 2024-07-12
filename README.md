@@ -23,6 +23,23 @@ These instructions will get you a copy of the project up and running on your loc
 |------------------------|
 |![Calculator Display](screenshot/img.png) |
 
+## Screenshot
+
+<div align="center">
+  <table>
+  <tr>
+  <th>
+  Calculator Display
+  </th>
+  </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshot/img.png" alt="Calculator Display">
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### Installation
 
 1. Clone the repository:
