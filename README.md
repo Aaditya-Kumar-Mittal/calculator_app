@@ -17,6 +17,12 @@ These instructions will get you a copy of the project up and running on your loc
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - A code editor (e.g., VSCode, IntelliJ, Android Studio)
 
+## Screenshot
+
+| Calculator Display     |
+|------------------------|
+|![Calculator Display](screenshot/img.png) |
+
 ### Installation
 
 1. Clone the repository:
