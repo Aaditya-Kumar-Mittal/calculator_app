@@ -19,12 +19,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Screenshot
 
-| Calculator Display     |
-|------------------------|
-|![Calculator Display](screenshot/img.png) |
-
-## Screenshot
-
 <div align="center">
   <table>
   <tr>
